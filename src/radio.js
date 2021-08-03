@@ -11,8 +11,6 @@ var config;
 
 // Read config.json, if it doesn't exist, throw an error and exit program
 try {
-    console.log(working_dir + '\config.json');
-
     const data = fs.readFileSync(path.join(working_dir, 'config.json'), 'utf8')
 
     config = JSON.parse(data);
