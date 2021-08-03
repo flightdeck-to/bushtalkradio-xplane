@@ -1,0 +1,17 @@
+{
+  "name": "bushtalkradio-xplane",
+  "version": "1.0.0",
+  "description": "X-Plane connector for BushTalkRadio.com",
+  "main": "src/radio.js",
+  "bin": "src/radio.js",
+  "scripts": {
+  },
+  "author": "Robbert van der Pas (land@flightdeck.to / https://www.flightdeck.to)",
+  "license": "MIT",
+  "assets": [ "node_modules/**/*", "src/**/*"],
+  "targets": ["node14-win-x64"],
+  "dependencies": {
+    "axios": "^0.21.1",
+    "extplanejs": "^0.1.4"
+  }
+}
