@@ -2,9 +2,11 @@
 
 Explore the world as a virtual tourist with this free addon for X-Plane, listen to thousands of audio tours and local radio.
 
+Currently available for Windows & Linux. macOS should work but is not tested.
+
 # How to install and use
 1) Make an account at https://www.bushtalkradio.com and log in
-2) Download the latest release.
+2) Download the [latest release](https://github.com/flightdeck-to/bushtalkradio-xplane/releases/).
 3) Copy the [ExtPlane plugin](https://github.com/vranki/ExtPlane) folder to your X-Plane plugin folder (Resources/Plugins)
 4) Enter your credentials to the config.json file
 5) Open X-Plane
